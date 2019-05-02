@@ -1,1 +1,2 @@
 # NetworkScienceProject
+Abstract—Sequence Similarity Networks are useful for identifying complex relations between proteins and find homologous proteins. SSNs can be constructed using threshold-based methods that use pairwise similarity calculation and hence is an expensive step. This is overcome by the DiWANN method of SSN construction. The goal of the project is to compare these methods by creating the networks of the proteins present in Chloroplast gene of rice and wheat crops. We draw conclusions about the crops by analyzing properties like density and centrality. 
